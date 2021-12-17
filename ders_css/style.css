@@ -1,0 +1,28 @@
+.bilgeadam{
+color: blueviolet;
+font-size:2rem;
+}
+#my_id{
+color: aqua;
+font-size: 2rem;
+
+}
+div{
+
+    width: 250px;
+    height: 200px;
+    color: brown;
+    background-color: aqua;
+    padding: 25px 15px 35px 30px;
+    margin-top: 10px;
+    border: 5px    solid blue ;
+    border-radius: 10%;
+}
+#p{
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+
+
+}
